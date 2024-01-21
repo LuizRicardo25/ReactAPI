@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto "Pesquisa por Imagem - REACT - UNISAGRADO"
 
 ## Visão Geral
@@ -51,8 +52,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 - Link do Projeto: [https://github.com/LuizRicardo25/ReactAPI.git]
 
 ---
-
-Criado com ❤️ para a aula de React - Projeto "Pesquisa por Imagem - REACT - UNISAGRADO".
 
 
 # Getting Started with Create React App
@@ -125,3 +124,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# ReactAPI
+REACT - Utilização de API e  Manipulação de Dados
+>>>>>>> 155ebb858cbc7e6e2a06efc22f33ef479a61bca8

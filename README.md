@@ -1,3 +1,60 @@
+# Projeto "Pesquisa por Imagem - REACT - UNISAGRADO"
+
+## Visão Geral
+
+O "Pesquisa por Imagem - REACT - UNISAGRADO" é uma aplicação web desenvolvida em React que permite aos usuários buscar e visualizar imagens através da API do Unsplash. Esta aplicação oferece uma interface simples e intuitiva para pesquisa de imagens por palavras-chave.
+
+## Funcionalidades
+
+- **Pesquisa de Imagens**: Permite aos usuários buscar imagens digitando palavras-chave.
+- **Visualização de Imagens**: Exibe as imagens encontradas em uma grade organizada.
+- **Interface Dinâmica**: A busca de imagens se atualiza conforme a entrada do usuário.
+
+## Tecnologias Utilizadas
+
+- **React**: Usado para construir a interface do usuário.
+- **API do Unsplash**: Fornece as imagens para as buscas realizadas.
+
+## Instalação
+
+Siga os passos abaixo para configurar o projeto localmente:
+
+1. Clone o repositório para sua máquina.
+2. Navegue até a pasta do projeto.
+3. Instale as dependências com `npm install`.
+4. Inicie a aplicação com `npm start`.
+5. Acesse `http://localhost:3000` no seu navegador.
+
+## Como Usar
+
+1. Insira uma palavra-chave no campo de pesquisa.
+2. Clique em "Search" para realizar a busca.
+3. As imagens correspondentes serão exibidas abaixo.
+
+## Contribuições
+
+Para contribuir com o projeto:
+
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`).
+3. Faça commit de suas mudanças (`git commit -m 'Add some AmazingFeature'`).
+4. Faça push para a branch (`git push origin feature/AmazingFeature`).
+5. Abra um Pull Request.
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+## Contato
+
+- Professor Responsável: [Luiz Ricardo Mantovani da Silva] - luiz.mantovani@unisagrado.edu.br
+- Link do Projeto: [https://github.com/LuizRicardo25/ReactAPI.git]
+
+---
+
+Criado com ❤️ para a aula de React - Projeto "Pesquisa por Imagem - REACT - UNISAGRADO".
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

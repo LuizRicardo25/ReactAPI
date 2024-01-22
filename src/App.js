@@ -7,7 +7,7 @@ function App() {
 
   const searchPhotos = async (e) => {
     e.preventDefault();
-    const response = await fetch(`https://api.unsplash.com/search/photos?query=${query}&client_id=bJMAyzA9kQVqebJeWTlpfAkPgS8GVWLzRYo9EtL-rQE`);
+    const response = await fetch(`https://api.unsplash.com/search/photos?query=${query}&client_id=SUA CHAVE DE API`);
     const data = await response.json();
     setPhotos(data.results);
   };
